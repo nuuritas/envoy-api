@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment file with secrets
+.env
+
+# IDE / OS specific
+.idea/
+.vscode/
+.DS_Store
+
